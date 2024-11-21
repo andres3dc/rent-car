@@ -1,0 +1,15 @@
+package co.edu.university.vehiclerental.enums;
+
+public enum GasType {
+    REGULAR_GASOLINE,
+    PREMIUM_GASOLINE,
+    HIGH_OCTANE_GASOLINE,
+    DIESEL,
+    UNLEADED_GASOLINE,
+    SUPER_GASOLINE,
+    EXTRA_GASOLINE,
+    COMPRESSED_NATURAL_GAS,
+    LIQUEFIED_PETROLEUM_GAS,
+    ETHANOL,
+    BIODIESEL
+}
